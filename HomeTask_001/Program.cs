@@ -26,6 +26,7 @@ if (number.Length == 5)
 {
     pal(number);
 }
+Console.WriteLine("Format of input number is uncorrect");
 
 
 
