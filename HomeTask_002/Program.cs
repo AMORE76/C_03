@@ -1,6 +1,7 @@
 ﻿/* Задача 21
 
-Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве.
+Напишите программу, которая принимает на вход координаты двух точек 
+и находит расстояние между ними в 3D пространстве.
 
 A (3,6,8); B (2,1,-7), -> 15.84
 
@@ -16,7 +17,7 @@ int x2 = Convert.ToInt32(Console.ReadLine());
 int y2 = Convert.ToInt32(Console.ReadLine());
 int z2 = Convert.ToInt32(Console.ReadLine());
 
-double f(double a1, double b1, double c1, double a2, double b2, double c2)
+double distance(double a1, double b1, double c1, double a2, double b2, double c2)
 
 {
     double A = (a2 - a1);
@@ -26,7 +27,7 @@ double f(double a1, double b1, double c1, double a2, double b2, double c2)
     return result;
 }
 
-double length = f(x1, y1, z1, x2, y2, z2);
+double length = distance(x1, y1, z1, x2, y2, z2);
 
 Console.WriteLine(length);
 
