@@ -6,7 +6,6 @@ A (3,6,8); B (2,1,-7), -> 15.84
 
 A (7,-5, 0); B (1,-1,9) -> 11.53 */
 
-
 Console.WriteLine("Задайте координаты первой точки ()");
 int x1 = Convert.ToInt32(Console.ReadLine());
 int y1 = Convert.ToInt32(Console.ReadLine());
