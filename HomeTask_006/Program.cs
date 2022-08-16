@@ -23,12 +23,17 @@ for (int i = 0; i < numbers.Length; i++)
 Console.Write("]");
 
 
-/*void FillArray(int[] collection)
+/* int[] array = new int[8];
+
+//Cоздаем новый массив, где будет 8 элементов. По
+умолчанию, он будет наполнен нулями.
+
+void FillArray(int[] collection)
+
 {
     int length = collection.Length;
     int index = 0;
     while (index < length)
-
     {
         collection[index] = new Random().Next(1, 10);
         //index = index + 1;
@@ -36,47 +41,24 @@ Console.Write("]");
     }
 }
 
-PrintArray(int[] array);
+// Оформляем метод void, который будет печатать массив.
 
-{
-    int count = col.Length;
-    int position = 0;
+void PrintArray(int[] col)
 
-    while (position < count)
+{int count = col.Length;
+int position = 0;
 
-    {
-        Console.WriteLine(col[position]);
-        position++;
-    }
+while (position < count)
 
-    return position;
+{Console.WriteLine(col[position]);
+position++;}
 }
-
-int[] array = new int[10];
-void FillArray(int[] col);
 
 FillArray(array);
+Console.Write("[");
 PrintArray(array);
+Console.Write("]");*/
 
-/*Console.WriteLine("Input eight-digit number ()");
-int N = Convert.ToInt32(Console.ReadLine());
-
-N = Math.Abs(N);
-
-double NumberArray(int A)
-
-{
-   int [] array = new int[8];
-    while (A != 0)
-    {
-        sum += A % 10;
-        A /= 10;
-    }
-    double result = Convert.ToInt32(sum);
-    return result;
-}
-
-double DigitSum = SumOfDigit(N);
-
-Console.WriteLine(DigitSum);*/
+/* Определен массив из 8 элементов. Вызван метод FillArray,
+который заполнил массив, вызван метод PrintArray, который распечатал массив.*/
 
