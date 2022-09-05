@@ -1,0 +1,15 @@
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\HomeTask_019_064\bin\Debug\net6.0\HomeTask_019_064.exe
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\HomeTask_019_064\bin\Debug\net6.0\HomeTask_019_064.deps.json
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\HomeTask_019_064\bin\Debug\net6.0\HomeTask_019_064.runtimeconfig.json
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\HomeTask_019_064\bin\Debug\net6.0\HomeTask_019_064.dll
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\HomeTask_019_064\bin\Debug\net6.0\HomeTask_019_064.pdb
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\HomeTask_019_064\obj\Debug\net6.0\HomeTask_019_064.csproj.AssemblyReference.cache
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\HomeTask_019_064\obj\Debug\net6.0\HomeTask_019_064.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\HomeTask_019_064\obj\Debug\net6.0\HomeTask_019_064.AssemblyInfoInputs.cache
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\HomeTask_019_064\obj\Debug\net6.0\HomeTask_019_064.AssemblyInfo.cs
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\HomeTask_019_064\obj\Debug\net6.0\HomeTask_019_064.csproj.CoreCompileInputs.cache
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\HomeTask_019_064\obj\Debug\net6.0\HomeTask_019_064.dll
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\HomeTask_019_064\obj\Debug\net6.0\refint\HomeTask_019_064.dll
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\HomeTask_019_064\obj\Debug\net6.0\HomeTask_019_064.pdb
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\HomeTask_019_064\obj\Debug\net6.0\HomeTask_019_064.genruntimeconfig.cache
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\HomeTask_019_064\obj\Debug\net6.0\ref\HomeTask_019_064.dll
