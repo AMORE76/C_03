@@ -1,0 +1,15 @@
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\Final_CW\obj\Debug\net6.0\Final_CW.csproj.AssemblyReference.cache
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\Final_CW\obj\Debug\net6.0\Final_CW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\Final_CW\obj\Debug\net6.0\Final_CW.AssemblyInfoInputs.cache
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\Final_CW\obj\Debug\net6.0\Final_CW.AssemblyInfo.cs
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\Final_CW\obj\Debug\net6.0\Final_CW.csproj.CoreCompileInputs.cache
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\Final_CW\bin\Debug\net6.0\Final_CW.exe
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\Final_CW\bin\Debug\net6.0\Final_CW.deps.json
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\Final_CW\bin\Debug\net6.0\Final_CW.runtimeconfig.json
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\Final_CW\bin\Debug\net6.0\Final_CW.dll
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\Final_CW\bin\Debug\net6.0\Final_CW.pdb
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\Final_CW\obj\Debug\net6.0\Final_CW.dll
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\Final_CW\obj\Debug\net6.0\refint\Final_CW.dll
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\Final_CW\obj\Debug\net6.0\Final_CW.pdb
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\Final_CW\obj\Debug\net6.0\Final_CW.genruntimeconfig.cache
+C:\Users\ANDREi\OneDrive\Документы\2022\GBR_IT_C#\C_Lecture_003\Examples\Final_CW\obj\Debug\net6.0\ref\Final_CW.dll
