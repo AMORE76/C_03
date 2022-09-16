@@ -54,5 +54,5 @@ string[] initialData = InputArrayByUser();
 Console.WriteLine();
 Console.WriteLine("[{0}] - исходный массив строк ", string.Join(", ", initialData));
 Console.WriteLine();
-string[] newData = CreateArrayByCondition(arr: data);
-Console.WriteLine("[{0}] - итоговый массив строк длиной =< 3 символам", string.Join(", ", newInformation));
+string[] newData = CreateArrayByCondition(arr: initialData);
+Console.WriteLine("[{0}] - итоговый массив строк длиной =< 3 символам", string.Join(", ", newData));
